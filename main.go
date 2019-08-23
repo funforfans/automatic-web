@@ -4,7 +4,7 @@ import (
 	"github.com/micro/go-micro/util/log"
 	"github.com/micro/go-micro/web"
 	"net/http"
-	"tyweiqu/handler"
+	"automatic-web/handler"
 	"github.com/micro/cli"
 )
 
