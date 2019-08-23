@@ -3,6 +3,7 @@ go:
   - 1.12.x
 env:
   - GO111MODULE=on
+  - GOPROXY=https://proxy.golang.org
 cache:
   directories:
     - $GOPATH/pkg/mod
