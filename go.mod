@@ -1,4 +1,4 @@
-module tyweiqu
+module automatic-web
 
 go 1.12
 
